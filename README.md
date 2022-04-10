@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aboutaditya
+- 👋 Hi, I’m Aditya
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on beginner level projects
