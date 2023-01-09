@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on beginner level projects
+- 👀 I’m a aspiring Software Developer
+- 🌱 I’m currently working on Flutter 
+- 💞️ Connect with me to Collabrate
 - 📫 How to reach me - https://www.linkedin.com/in/aditya-thakur-9529a412a/
 
 <!---
